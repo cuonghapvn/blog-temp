@@ -10,7 +10,8 @@ tags:
 - PMP
 comments: 'true'
 published: ''
-
+featured: true
+rating: 5
 ---
 ### Intro
 
