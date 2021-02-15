@@ -1,26 +1,18 @@
 # Site
 name: "Cuong Nguyen"
 title: "Cuong Nguyen"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "A virtual proof that I'm awesome"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog-temp
 google_analytics: 'UA-167420207-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'cuongn'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:year-:month-:day-:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   cuongn:
     name: CuongN
     display_name: Cuong Nguyen    
@@ -29,7 +21,7 @@ authors:
     email: cuonghapvn@gmail.com
     web: https://www.cuongn.com
     twitter: https://twitter.com/cuonghapvn
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "A developer | project manager | nice guy"
 
 # Plugins
 plugins:
