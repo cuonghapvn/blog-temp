@@ -12,6 +12,7 @@ comments: 'true'
 published: ''
 featured: true
 rating: 5
+image: "http://www.cuongn.com/uploads/20200613-pmp-cover.jpg"
 ---
 ### Intro
 
