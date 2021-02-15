@@ -9,7 +9,7 @@ tags:
 - PMP
 featured: true
 rating: 5
-
+image: "https://talkprojectmanagement.com/wp-content/uploads/2020/06/PMP%C2%AE-Exam-Changes-in-2021.jpg"
 ---
 Sau một thời gian dài bận rộn với những dự án cá nhân, không có nhiều thời gian viết blog thì mình quay trở lại với một bài viết giới thiệu những thay đổi của PMP Exam từ năm 2021. 
 
